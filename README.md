@@ -6,9 +6,9 @@
 ---
 
 ## 🚀 Professional Profile
-[cite_start]I am a proactive and results-oriented **Frontend Developer** specialized in building native applications using **React Native and Expo**[cite: 7, 10]. [cite_start]With a strong background in the full development lifecycle—from construction and optimization to deployment—I have successfully led the launch of **3 applications** now available on the **App Store and Google Play Store**[cite: 7, 8].
+[cite_start] I am a proactive and results-oriented **Frontend Developer** specialized in building native applications using **React Native and Expo**[cite: 7, 10]. [cite_start]With a strong background in the full development lifecycle—from construction and optimization to deployment—I have successfully led the launch of **3 applications** now available on the **App Store and Google Play Store**[cite: 7, 8].
 
-[cite_start]I excel at creating, structuring, and executing technological projects in demanding environments, ensuring high-quality user experiences and efficient performance[cite: 11, 18].
+[cite_start] I excel at creating, structuring, and executing technological projects in demanding environments, ensuring high-quality user experiences and efficient performance[cite: 11, 18].
 
 ---
 
