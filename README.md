@@ -46,5 +46,5 @@ I excel at creating, structuring, and executing technological projects in demand
 
 ## 📫 Connect with me
 - **LinkedIn:** [linkedin.com/in/sergio-alejandro-morales-cuesta-frontend/](https://linkedin.com/in/sergio-alejandro-morales-cuesta-frontend/)
-- **Portfolio:** *[[portafolio-sergio-morales](https://vercel.com/sam94r-hotmailcoms-projects/portafolio-sergio-morales)]*
+- **Portfolio:** *[portafolio-sergio-morales](https://portafolio-sergio-morales.vercel.app/)]*
 - **Email:** sam94c@gmail.com 
