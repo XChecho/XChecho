@@ -6,9 +6,9 @@
 ---
 
 ## 🚀 Professional Profile
-I am a proactive and results-oriented **Frontend Developer** specialized in building native applications using **React Native and Expo**[cite: 7, 10]. With a strong background in the full development lifecycle—from construction and optimization to deployment—I have successfully led the launch of **3 applications** now available on the **App Store and Google Play Store**[cite: 7, 8].
+I am a proactive and results-oriented **Frontend Developer** specialized in building native applications using **React Native and Expo**. With a strong background in the full development lifecycle—from construction and optimization to deployment—I have successfully led the launch of **3 applications** now available on the **App Store and Google Play Store**.
 
-I excel at creating, structuring, and executing technological projects in demanding environments, ensuring high-quality user experiences and efficient performance[cite: 11, 18].
+I excel at creating, structuring, and executing technological projects in demanding environments, ensuring high-quality user experiences and efficient performance.
 
 ---
 
@@ -46,5 +46,5 @@ I excel at creating, structuring, and executing technological projects in demand
 
 ## 📫 Connect with me
 - **LinkedIn:** [linkedin.com/in/sergio-alejandro-morales-cuesta-frontend/](https://linkedin.com/in/sergio-alejandro-morales-cuesta-frontend/)
-- **Portfolio:** *[portafolio-sergio-morales](https://portafolio-sergio-morales.vercel.app/)]*
+- **Portfolio:** *[portafolio-sergio-morales](https://portafolio-sergio-morales.vercel.app/)*
 - **Email:** sam94c@gmail.com 
