@@ -32,7 +32,7 @@ I excel at creating, structuring, and executing technological projects in demand
 ---
 
 ## 💼 Work Experience Summary
-- **Agriglobal Market** | Frontend - Mobile Developer (Oct 2022 - Present)
+- **AgriGlobal Market** | Frontend - Mobile Developer (Oct 2022 - Present)
 - **Routte - Mikomovil SAS** | Frontend Developer (May 2022 - Sep 2022)
 - **Madecentro Colombia SAS** | Product Manager (Sep 2017 - Apr 2022)
 
