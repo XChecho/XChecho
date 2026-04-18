@@ -18,7 +18,7 @@ I excel at creating, structuring, and executing technological projects in demand
 | --- | --- |
 | **Mobile** | React Native, Expo, React Hooks, Zustand |
 | **Frontend** | ReactJS, NextJS, Tailwind CSS, Redux Toolkit |
-| **Backend** | NestJS, NodeJS, ExpressJS, Python (Django) |
+| **Backend** | NestJS, NodeJS, ExpressJS |
 | **Database & Tools** | MongoDB, MySQL, Docker, Git, SCRUM |
 
 ---
