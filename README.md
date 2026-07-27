@@ -1,6 +1,6 @@
 <!-- Typing SVG Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.deno.dev?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=80&lines=Sergio+Alejandro+Morales+Cuesta;Frontend+%26+Mobile+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=80&lines=Sergio+Alejandro+Morales+Cuesta;Frontend+%26+Mobile+Developer" alt="Typing SVG" />
 </p>
 
 <!-- Hero Image -->
@@ -67,13 +67,13 @@ Me apasiona la arquitectura de software, la automatización con IA, y crear prod
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=XChecho&theme=tokyonight&show_icons=true&count_private=true&hide_border=true&bg_color=00000000&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=XChecho&theme=tokyonight&hide_border=true&bg_color=00000000&fire=00D9FF&ring=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=XChecho&theme=tokyonight&show_icons=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=XChecho&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XChecho&theme=tokyonight&layout=compact&hide_border=true&bg_color=00000000&title_color=00D9FF&text_color=ffffff" alt="Top Languages" />
-  <img src="https://github-profile-trophy.vercel.app/?username=XChecho&theme=tokyonight&no-frame=true&margin-w=4&no-bg=true&column=7" alt="GitHub Trophies" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XChecho&theme=tokyonight&layout=compact" alt="Top Languages" />
+  <img src="https://github-profile-trophy.vercel.app/?username=XChecho&theme=tokyonight&no-frame=true&margin-w=4" alt="GitHub Trophies" />
 </p>
 
 ---
